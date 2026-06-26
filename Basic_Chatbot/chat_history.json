@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "kese ho"
+  },
+  {
+    "role": "assistant",
+    "content": "Main theek hun, shukriya! Aap kaise hain?"
+  },
+  {
+    "role": "user",
+    "content": "paka"
+  },
+  {
+    "role": "assistant",
+    "content": "Toh sab khairiyat hai! Kya main aapki kisi tarah se madad kar sakta hoon?"
+  },
+  {
+    "role": "user",
+    "content": "Haaan"
+  },
+  {
+    "role": "assistant",
+    "content": "Bataiye, aapko kis cheez ki madad chahiye? Koi sawal, koi masla, ya bas gappa maarne ka mann hai?"
+  },
+  {
+    "role": "user",
+    "content": "kese ho"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  }
+]
